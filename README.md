@@ -10,7 +10,7 @@
 ## 3 open edit quick css
 <img width="693" height="159" alt="image" src="https://github.com/user-attachments/assets/cc0e2030-e39a-4d8f-b16b-2ce642fe90ee" />
 
-## 4 Copy text from Throwvoid theme file
+## 4 Copy text from Throwvoid theme css
 <img width="705" height="22" alt="image" src="https://github.com/user-attachments/assets/0e289027-3517-43cb-8c40-6d3ecaa9984f" />
 
 ## 5 Paste it in Edit Quick CSS and  Enjoy <<<< Throwvoid love you
