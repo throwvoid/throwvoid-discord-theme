@@ -19,7 +19,7 @@
   * @author throwvoid
   * @version throw+V1
   * @description Highly customized pink and dark  theme for Discord by throwvoid
-  * @source https://raw.githubusercontent.com/throwvoid/throwvoid-discord-theme/refs/heads/main/throwvoid%20source.css
+  * @source https://raw.githubusercontent.com/sultanstd/throwvoid-discord-theme/refs/heads/main/throwvoid%20source.css
   * @invite sMgwDx4wcQ
 */
 
@@ -34,12 +34,11 @@
 
 
 
-
 :root {
   --darkplus-bg: #000000;
-  --darkplus-bg2: rgb(0, 0, 0);
-  --darkplus-sec: #ff00d4;
-  --darkplus-links: #d400c3;
+  --darkplus-bg2: rgb(8, 6, 6);
+  --darkplus-sec: #ffffff;
+  --darkplus-links: #ffffff;
   --darkplus-home-icon: url(https://i.ibb.co/4Zv0K2xt/New-Project.png);
   --watermark-filter-invert: 0%;
   --watermark-filter-sepia: 50%;
@@ -50,19 +49,22 @@
 }
 
 
+
 /**
 *You can change the name by modifying the text on line 39<<<<<<<<<<<<<<<<<
 */
 :root::before {
-    content: "your name ";
+    content: "your name";
     position: fixed;
     top: -5px;
     left: 3px;
     font-size: 18px;
-    color: rgb(255, 0, 157);
+    color: rgb(255, 255, 255);
     font-weight: bold;
     z-index: 9999;
 }
+
+
 
 
 
