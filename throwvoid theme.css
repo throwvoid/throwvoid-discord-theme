@@ -19,7 +19,7 @@
   * @author throwvoid
   * @version throw+V1
   * @description Highly customized pink and dark  theme for Discord by throwvoid
-  * @source https://raw.githubusercontent.com/sultanstd/throwvoid-discord-theme/refs/heads/main/throwvoid%20source.css
+  * @source https://raw.githubusercontent.com/throwvoid/throwvoid-discord-theme/refs/heads/main/throwvoid%20source.css
   * @invite sMgwDx4wcQ
 */
 
@@ -28,8 +28,8 @@
   → Comment out the first @import line below.
   → Then, uncomment the second @import line.
 */
-@import url('https://raw.githubusercontent.com/sultanstd/throwvoid-discord-theme/refs/heads/main/throwvoid%20source.css');
-/*@import url('https://raw.githubusercontent.com/sultanstd/throwvoid-discord-theme/refs/heads/main/throwvoid%20source.css');*/
+@import url('https://raw.githubusercontent.com/throwvoid/throwvoid-discord-theme/refs/heads/main/throwvoid%20source.css');
+/*@import url('https://raw.githubusercontent.com/throwvoid/throwvoid-discord-theme/refs/heads/main/throwvoid%20source.css');*/
 
 
 
@@ -54,7 +54,7 @@
 *You can change the name by modifying the text on line 39<<<<<<<<<<<<<<<<<
 */
 :root::before {
-    content: "throwvoid & superanxious 🎸";
+    content: "your name ";
     position: fixed;
     top: -5px;
     left: 3px;
@@ -63,5 +63,6 @@
     font-weight: bold;
     z-index: 9999;
 }
+
 
 
