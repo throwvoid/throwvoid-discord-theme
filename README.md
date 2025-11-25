@@ -1,4 +1,4 @@
-# To use Throwvoid theme 
+# To use Throwvoid theme (you can change the color and the name from quick css)
 <img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/9ac93ab0-26f1-466f-8dd6-b290ecf14751" />
 
 
