@@ -1,7 +1,5 @@
 # To use Throwvoid theme (you can change the color and  name from quick css )
-<img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/278dc1b5-e0e1-4563-b436-d049a574e54c" />
-
-
+<img width="1919" height="1024" alt="image" src="https://github.com/user-attachments/assets/f156aba5-d2c8-4b54-b2ad-b6fb945e40cd" />
 
 ## 1  Download Vencord https://vencord.dev/ and  Watch Tutorial to install it 
 
