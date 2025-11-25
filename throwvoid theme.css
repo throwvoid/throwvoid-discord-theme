@@ -34,7 +34,7 @@
   --watermark-filter-contrast: 200%;
 }
 
-
+*You can change the name by modifying the text on line 39<<<<<<<<<<<<<<<<<
 :root::before {
     content: "throwvoid & superanxious 🎸";
     position: fixed;
@@ -45,3 +45,4 @@
     font-weight: bold;
     z-index: 9999;
 }
+
