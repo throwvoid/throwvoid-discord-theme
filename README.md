@@ -3,3 +3,15 @@
 
 
 to use throwvoid theme 
+Locate the following line and comment it out:
+
+```css
+@import url('https://example.com/theme.css');
+```
+
+→ Becomes:
+
+```css
+/* @import url('https://example.com/theme.css'); */
+```
+
