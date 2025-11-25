@@ -2,7 +2,7 @@
 <img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/9ac93ab0-26f1-466f-8dd6-b290ecf14751" />
 
 
-## 1  Download Vencord https://vencord.dev/
+## 1  Download Vencord https://vencord.dev/ and  Watch Tutorial to install it 
 
 ## 2  Open Discord settings and go to Themes 
 <img width="1001" height="553" alt="image" src="https://github.com/user-attachments/assets/58bda4e2-37af-4e6b-8e6a-8622d49e7191" />
