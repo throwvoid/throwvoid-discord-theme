@@ -1,17 +1,14 @@
+# To use Throwvoid theme
 
-<img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/293275a2-f4b3-42a7-bb9a-854b9ff11f5a" />
+## Step 1  
+Download Vencord https://vencord.dev/
 
+## Step 2  
+Open Discord settings and go to Themes and open Edit Quick CSS
 
-to use throwvoid theme 
-Locate the following line and comment it out:
+## Step 3  
+Copy text from Throwvoid theme file
 
-```css
-@import url('https://example.com/theme.css');
-```
-
-→ Becomes:
-
-```css
-/* @import url('https://example.com/theme.css'); */
-```
-
+## Step 4  
+Paste it in Edit Quick CSS  
+Enjoy <<<< Throwvoid love you
