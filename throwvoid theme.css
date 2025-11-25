@@ -1,4 +1,19 @@
-
+/*                                                                                        
+    ___      ,---,                                                                              
+  ,--.'|_  ,--.' |                                                           ,--,         ,---, 
+  |  | :,' |  |  :      __  ,-.   ,---.           .---.             ,---.  ,--.'|       ,---.'| 
+  :  : ' : :  :  :    ,' ,'/ /|  '   ,'\         /. ./|     .---.  '   ,'\ |  |,        |   | : 
+.;__,'  /  :  |  |,--.'  | |' | /   /   |     .-'-. ' |   /.  ./| /   /   |`--'_        |   | | 
+|  |   |   |  :  '   ||  |   ,'.   ; ,. :    /___/ \: | .-' . ' |.   ; ,. :,' ,'|     ,--.__| | 
+:__,'| :   |  |   /' :'  :  /  '   | |: : .-'.. '   ' ./___/ \: |'   | |: :'  | |    /   ,'   | 
+  '  : |__ '  :  | | ||  | '   '   | .; :/___/ \:     '.   \  ' .'   | .; :|  | :   .   '  /  | 
+  |  | '.'||  |  ' | :;  : |   |   :    |.   \  ' .\    \   \   '|   :    |'  : |__ '   ; |:  | 
+  ;  :    ;|  :  :_:,'|  , ;    \   \  /  \   \   ' \ |  \   \    \   \  / |  | '.'||   | '/  ' 
+  |  ,   / |  | ,'     ---'      `----'    \   \  |--"    \   \ |  `----'  ;  :    ;|   :    :| 
+   ---`-'  `--''                            \   \ |        '---"           |  ,   /  \   \  /   
+                                             '---"                          ---`-'    `----'    
+                                                                                                                                                                                 
+*/
 /**
   * @name superanxious
   * @author throwvoid
@@ -14,16 +29,16 @@
   → Then, uncomment the second @import line.
 */
 @import url('https://raw.githubusercontent.com/sultanstd/throwvoid-discord-theme/refs/heads/main/throwvoid%20source.css');
-/*@import url(https://raw.githubusercontent.com/sultanstd/throwvoid-discord-theme/refs/heads/main/throwvoid%20source.css');*/
+/*@import url('https://raw.githubusercontent.com/sultanstd/throwvoid-discord-theme/refs/heads/main/throwvoid%20source.css');*/
 
 
 
 
 
 :root {
-  --darkplus-bg: #3d033a;
+  --darkplus-bg: #000000;
   --darkplus-bg2: rgb(0, 0, 0);
-  --darkplus-sec: #eb10c6;
+  --darkplus-sec: #ff00d4;
   --darkplus-links: #d400c3;
   --darkplus-home-icon: url(https://i.ibb.co/4Zv0K2xt/New-Project.png);
   --watermark-filter-invert: 0%;
@@ -33,6 +48,7 @@
   --watermark-filter-brightness: 70%;
   --watermark-filter-contrast: 200%;
 }
+
 
 /**
 *You can change the name by modifying the text on line 39<<<<<<<<<<<<<<<<<
@@ -47,7 +63,5 @@
     font-weight: bold;
     z-index: 9999;
 }
-
-
 
 
