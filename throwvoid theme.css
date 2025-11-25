@@ -1,0 +1,47 @@
+
+/**
+  * @name superanxious
+  * @author throwvoid
+  * @version throw+V1
+  * @description Highly customized dark theme for Discord by throwvoid
+  * @source https://raw.githubusercontent.com/sultanstd/myp/refs/heads/main/Dark%2B.theme.css
+  * @invite sMgwDx4wcQ
+*/
+
+/* 
+  TO USE THE THEME WITH THE DEFAULT MEMBER LIST:
+  → Comment out the first @import line below.
+  → Then, uncomment the second @import line.
+*/
+@import url('https://raw.githubusercontent.com/sultanstd/throwvoid-theme/refs/heads/main/throw.css');
+/*@import url('https://raw.githubusercontent.com/sultanstd/throwvoid-theme/refs/heads/main/throw.css');*/
+
+
+
+
+
+:root {
+  --darkplus-bg: #3d033a;
+  --darkplus-bg2: rgb(0, 0, 0);
+  --darkplus-sec: #eb10c6;
+  --darkplus-links: #d400c3;
+  --darkplus-home-icon: url(https://i.ibb.co/4Zv0K2xt/New-Project.png);
+  --watermark-filter-invert: 0%;
+  --watermark-filter-sepia: 50%;
+  --watermark-filter-saturate: 3000%;
+  --watermark-filter-hue-rotate: 210deg;
+  --watermark-filter-brightness: 70%;
+  --watermark-filter-contrast: 200%;
+}
+
+
+:root::before {
+    content: "throwvoid & superanxious 🎸";
+    position: fixed;
+    top: -5px;
+    left: 3px;
+    font-size: 18px;
+    color: rgb(255, 0, 157);
+    font-weight: bold;
+    z-index: 9999;
+}
